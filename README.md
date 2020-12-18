@@ -2,7 +2,7 @@
 
 I am a Software Engineer with hands-on experience in various languages, frameworks and tools. A student for life, I like to study new technologies, experiment and explore new possibilities in modern web development. A supportive and enthusiastic team player that appreciates teamwork, sharing knowledge and thinks highly of quality, but can be pragmatic if required. Some technologies I enjoy working with include Jamstack (JavaScript, APIs + Markup), ReactJS and GraphQL. 
 
-I’m passionate about my job and how to make development process more efficient, productive, and still keep space for personal growth. Tech world is an amazing platform for people to show their talent and bring a value! That’s why now I’m shifting my position towards managing position. I believe my extensive experience working as a engineer in various companies, with very different environment can help me to build great teams 😉 And still keep hands "dirty" by coding! 
+I’m passionate about my job and how to make development process more efficient, productive, and still keep space for personal growth. Tech world is an amazing platform for people to show their talent and bring a value! That’s why now I’m shifting my position towards managing position. I believe my extensive experience working as a engineer in various companies, in very different environments can help me to build great teams 😉 
 
 ## What do I do in spare time:
 
