@@ -17,5 +17,6 @@ If you want to know more about me, perhaps you can visit some of the social netw
 
 ## Find me somewhere here:
 
-- 📌 <a href="https://www.linkedin.com/in/khrystyna-skvarok/">LinkedIn</a>
-- 📌 <a href="https://twitter.com/Barvysta">Twitter</a>
+- 📌 Sometimes I write about tech, books and life at <a href="https://barvysta.medium.com/">Medium</a>
+- 📌 My work news feed at <a href="https://www.linkedin.com/in/khrystyna-skvarok/">LinkedIn</a>
+- 📌 Not very often at <a href="https://twitter.com/Barvysta">Twitter</a>, but still. 
