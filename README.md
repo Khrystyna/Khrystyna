@@ -9,6 +9,8 @@ I’m passionate about my job and how to make development process more efficient
 - 🌱 I’m currently learning Dutch and how to draw with watercolors. 
 - 💻 Experimenting with AWS services.
 - 📚 Reading a lot about tech, managing and great teams. Please see <a href="https://khrystyna.github.io/what-i-read/">here</a> my reading list and feel free to suggest an interesting book! 
+- 🏊 Swim! Swimming is just awesome.
+- 🚶 Walking the city. 
 
 
 If you want to know more about me, perhaps you can visit some of the social networks below or let's chat over the cup of coffee 😉
