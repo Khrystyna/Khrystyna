@@ -1,8 +1,10 @@
 ### Hi, I am Khrystyna  👋 
 
-I am a Software Engineer with hands-on experience in various languages, frameworks and tools. A student for life, I like to study new technologies, experiment and explore new possibilities in modern web development. A supportive and enthusiastic team player that appreciates teamwork, sharing knowledge and thinks highly of quality, but can be pragmatic if required. Some technologies I enjoy working with include Jamstack (JavaScript, APIs + Markup), ReactJS and GraphQL. 
+I’m passionate about my job and how to make the development process more efficient, productive, and still keep space for personal growth. Tech world is an amazing platform for people to show their talent and bring value! I believe my extensive experience working as an engineer in various companies, with very different environments helps me now to build great teams and great products.
 
-I’m passionate about my job and how to make development process more efficient, productive, and still keep space for personal growth. Tech world is an amazing platform for people to show their talent and bring a value! That’s why now I’m shifting my position towards managing position. I believe my extensive experience working as a engineer in various companies, in very different environments can help me to build great teams 😉 
+My background is a Software Engineering with hands-on experience in various languages, frameworks and tools. Some technologies I enjoy working with include Jamstack (JavaScript, APIs + Markup), ReactJS, GraphQL, AWS, Google, Firebase. 
+
+A student for life, I like to study new, experiment, explore new possibilities. I am hardworking and responsible. I never stop learning and leveling up my skills. That's why I love to work in teams with an open-minded culture, that encourages individuality, ownership, professional growth. I love a good challenge and I love having a great team to tackle it with. I can be a strong individual player, but I believe with a good team you can achieve much more. 😉 
 
 ## What do I do in spare time:
 
